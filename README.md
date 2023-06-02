@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer who is always seeking more knowledge.</h3>
 
 
-- 🌱 I’m currently learning **Node.js/Express.js**
+- 🌱 I’m currently learning **Node.js/Express.js and Ruby/Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://kaylajo838.github.io/portfolio-landing-page/](https://kaylajo838.github.io/portfolio-landing-page/)
 
